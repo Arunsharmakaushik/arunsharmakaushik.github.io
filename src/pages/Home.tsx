@@ -7,7 +7,7 @@ export default function Home() {
 
         {/* PROFILE IMAGE */}
         <img
-          src="https://media.licdn.com/dms/image/v2/D5603AQEcvBO9M1cKhA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1705612689353?e=1776902400&v=beta&t=rchE7y6dZT_NyS49PjIjheuVwoOz_a8WtaIma0YfdP0"
+          src="https://avatars.githubusercontent.com/u/37880789?s=400&v=4"
           alt="Arun Sharma"
           className="profile-img"
         />
